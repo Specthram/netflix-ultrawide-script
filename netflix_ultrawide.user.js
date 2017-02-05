@@ -18,8 +18,8 @@
         //if you want to contribute, you can set subtitles height etc..
     };
 
-    document.onkeydown = function(evt) {
-        switch (evt.keyCode){
+    document.onkeydown = function(e) {
+        switch (e.keyCode){
             case 49: // 1
                 screenAdjustment(100, 0);
                 break;
@@ -48,6 +48,4 @@
         //      break;
 
     };
-
-    console.log("Netflix Ultrawide script activated");
 })();
