@@ -1,13 +1,12 @@
 // ==UserScript==
-// @namespace    netflix.tld
 // @name         Netflix Ultrawide Script
+// @namespace    netflix.tld
 // @version      1.0
+// @description  Cropping the video to match differents aspect ratios in full screen without black bars and stuff
 // @author       Anthony Ossent
 // @match        https://www.netflix.com/*
 // @grant        none
-// @description  Cropping the video to match differents aspect ratios in full screen without black bars and stuff
 // ==/UserScript==
-
 
 (function() {
 
