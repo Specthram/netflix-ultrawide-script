@@ -1,4 +1,4 @@
-# netflix Ultrawide Script (tampermonkey version)
+# Netflix Ultrawide Script (tampermonkey version)
 zoom presets for netflix, to enjoy it in ultrawide format.
 Compatible with all browsers who supports tampermonkey (chrome, firefox, edge...)
 
