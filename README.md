@@ -5,7 +5,7 @@ Compatible with all browsers who supports tampermonkey (chrome, firefox, edge...
 **Instructions :**
 
 - Install tampermonkey on your browser https://tampermonkey.net/
-- go to script.js on this repository and click "raw"
+- go to netflix_ultrawide.user.js on this repository and click "raw"
 - Tampermonkey will recognize the script and should install it.
 - If it don't work, go in tampermonkey, dashboard and install it manually (copy / past)
 
